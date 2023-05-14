@@ -3,11 +3,11 @@ An interactive phonebook interface to keep log of the contact details permanantl
 
 Language and technologies used - 
 
-HTML
-CSS
-JS
-NodeJS
-MongoDB
+HTML |
+CSS |
+JS |
+NodeJS |
+MongoDB |
 ExpressJS
 
 Contact me at - 
