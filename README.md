@@ -8,7 +8,8 @@ CSS |
 JS |
 NodeJS |
 MongoDB |
-ExpressJS
+ExpressJS |
+EJS
 
 Contact me at - 
 sarvagyasaxena.2102@gmail.com
